@@ -1,6 +1,7 @@
 ﻿using System;
+using CalculatorLibrary;
 
-namespace CSharpCalculator
+namespace CalculatorProgram
 {
     class Program
     {
