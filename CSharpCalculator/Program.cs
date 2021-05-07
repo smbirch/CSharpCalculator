@@ -37,10 +37,13 @@ namespace CSharpCalculator
                 case "d":
                     Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
                     break;
-            }
+            } 
             Console.WriteLine("Press any key to close the calculator");
             Console.ReadKey();
 
         }
     }
 }
+
+
+//testing
